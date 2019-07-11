@@ -1,5 +1,4 @@
 const request_promise = require('request-promise');
-const fs = require("fs");
 
 // generator of options for request
 function generateOption(id) {
